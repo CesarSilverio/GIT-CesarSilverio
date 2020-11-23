@@ -1,6 +1,6 @@
-#Titulo de mi proyecto
+# Titulo de mi proyecto
 
-    **Proyecto de GIT Cesar Silverio**
+    ** Proyecto de GIT Cesar Silverio **
 [//]:#(lista de enumeradas)
 1. index.html
 2. information.txt
